@@ -1,0 +1,4 @@
+run -all
+# ** Note: Ferdig med testingen! Alt gikk fint
+#    Time: 90 ns  Iteration: 0  Instance: /tb_cla_block
+# Break in Process line__28 at /home/fridatbe/M-drive/IN2060/Oblig2/tb_CLA_block.vhd line 87

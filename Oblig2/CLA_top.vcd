@@ -1,0 +1,20 @@
+$date
+	Thu Sep 28 12:05:19 2023
+$end
+$version
+	QuestaSim Version 2020.4
+$end
+$timescale
+	1fs
+$end
+$scope module tb_cla_top $end
+$var wire 1 ! tb_cout $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0!
+#70000000
+1!
+#110000000
+0!

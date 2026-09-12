@@ -1,0 +1,22 @@
+$date
+	Wed Sep 20 12:22:42 2023
+$end
+$version
+	QuestaSim Version 2020.4
+$end
+$timescale
+	1ns
+$end
+$scope module tb_fulladder $end
+$var wire 1 ! tb_s $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0!
+#10
+1!
+#30
+0!
+#70
+1!
